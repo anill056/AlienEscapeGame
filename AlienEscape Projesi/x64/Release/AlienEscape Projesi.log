@@ -1,0 +1,9 @@
+﻿  AlienEscape Projesi.cpp
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(67,21): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(68,21): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(375,15): warning C4267: '+=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 321 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  AlienEscape Projesi.vcxproj -> C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\x64\Release\AlienEscape Projesi.exe

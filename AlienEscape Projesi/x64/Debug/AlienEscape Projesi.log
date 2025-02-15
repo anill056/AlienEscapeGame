@@ -1,0 +1,5 @@
+﻿  AlienEscape Projesi.cpp
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(68,21): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(69,21): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\AlienEscape Projesi\AlienEscape Projesi.cpp(376,15): warning C4267: '+=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  AlienEscape Projesi.vcxproj -> C:\Users\AnılHP\Desktop\C++ PROJELER\AlienEscape Projesi\x64\Debug\AlienEscape Projesi.exe
