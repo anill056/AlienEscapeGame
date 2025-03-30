@@ -3,4 +3,4 @@ NOTE:
 
 
 Open Source Code :
-AlienEscape Projesi --> x64 --> AlienEscapeProjesi.cpp
+AlienEscape Projesi --> AlienEscapeProjesi.cpp
